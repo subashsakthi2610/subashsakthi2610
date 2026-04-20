@@ -11,12 +11,12 @@ I am a detail-oriented DevOps Engineer based in Bangalore, India. I specialize i
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Cloud** | ![AWS](https://shields.io) (EC2, S3, IAM, VPC, EKS, Route 53, CloudWatch) |
-| **Containers & Orchestration** | ![Docker](https://shields.io) ![Kubernetes](https://shields.io) ![Helm](https://shields.io) |
-| **Infrastructure as Code** | ![Terraform](https://shields.io) ![Ansible](https://shields.io) |
-| **CI/CD** | ![GitHub Actions](https://shields.io) ![Jenkins](https://shields.io) ![ArgoCD](https://shields.io) |
-| **Monitoring & Logging** | ![Prometheus](https://shields.io) ![Grafana](https://shields.io) |
-| **Programming** | ![Python](https://shields.io) ![Bash](https://shields.io) |
+| **Cloud** | AWS(EC2, S3, IAM, VPC, EKS, Route 53, CloudWatch) |
+| **Containers & Orchestration** | Docker Kubernetes Helm |
+| **Infrastructure as Code** | Terraform Ansible |
+| **CI/CD** | GitHub Actions Jenkins ArgoCD |
+| **Monitoring & Logging** | Prometheus Grafana |
+| **Programming** | Python Bash |
 
 ---
 
@@ -46,8 +46,8 @@ I am a detail-oriented DevOps Engineer based in Bangalore, India. I specialize i
 ---
 
 ### 📫 Connect with me:
-*   **Email:** [subashsakthi91@gmail.com](mailto:subashsakthi91@gmail.com)
-*   **LinkedIn:** [://linkedin.com](https://://linkedin.com) 
+*   **Email:** [subashsakthi2610@gmail.com](mailto:subashsakthi2610@gmail.com)
+*   **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/subash-devops/) 
 *   **Location:** Bangalore, India 🇮🇳
 
 ---
