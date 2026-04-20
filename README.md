@@ -1,4 +1,3 @@
-markdown
 # Hi there, I'm Subash G 👋
 
 **DevOps & Cloud Engineer | Kubernetes Enthusiast | Infrastructure Automator**
