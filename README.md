@@ -1,6 +1,6 @@
 # Hi there, I'm Subash G 👋
 
-### ☁️ DevOps Engineer | AWS Certified | Python Automation
+### ☁️ DevOps Engineer | Python Automation
 
 I am a Computer Science graduate (B.E.) and an AWS Certified Cloud Practitioner transitioning into cloud infrastructure and DevOps. After dedicating My time to Freelance Digital Consultant & DevOps Practitioner, I am bringing my focus, resilience, and problem-solving skills back to core tech. 
 
