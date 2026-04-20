@@ -12,11 +12,11 @@ I am a detail-oriented DevOps Engineer based in Bangalore, India. I specialize i
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Cloud** | AWS(EC2, S3, IAM, VPC, EKS, Route 53, CloudWatch) |
-| **Containers & Orchestration** | Docker Kubernetes Helm |
-| **Infrastructure as Code** | Terraform Ansible |
-| **CI/CD** | GitHub Actions Jenkins ArgoCD |
-| **Monitoring & Logging** | Prometheus Grafana |
-| **Programming** | Python Bash |
+| **Containers & Orchestration** | Docker, Kubernetes, Helm |
+| **Infrastructure as Code** | Terraform, Ansible |
+| **CI/CD** | GitHub Actions, Jenkins, ArgoCD |
+| **Monitoring & Logging** | Prometheus, Grafana |
+| **Programming** | Python, Bash |
 
 ---
 
